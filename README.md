@@ -12,5 +12,6 @@ In this Jupyter Notebook: **Nutritional Rating Machine Learning Model.ipynb**
 5) Fitting a Linear Model (Linear Regression) / Evaluating model 
 6) Displaying results Statistics (R^2)
 7) Making Predictions / Scatter Plot
-8) Implementinga Neural Network using Keras / Tensorflow
+8) Implementing a Neural Network using Keras / Tensorflow
+9) Plotting Performance of Neural Network / Calculating its R^2 value
 
