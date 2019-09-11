@@ -3,7 +3,7 @@ Implementation of two types of Machine Learning models: Linear Regression Model 
 We are using a dataset from different Cereals' nutritional ratings and their ingredients.
 We specifically are using Sugar and Fiber quantities to Predict the Cereal's Nutritional Rating.
 
-In this Jupyter Notebook:
+In this Jupyter Notebook: *Nutritional Rating Machine Learning Model.ipynb*
 
 1) Converting CSV to a Pandas Dataframe and Data Exploration
 2) Checking if there is any missing data 
